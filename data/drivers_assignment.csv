@@ -1,0 +1,854 @@
+driverId,driverRef,country,name,ones,champs
+1,hamilton,United Kingdom,Lewis Hamilton,1,7
+3,rosberg,Germany,Nico Rosberg,1,1
+4,alonso,Spain,Fernando Alonso,1,2
+8,raikkonen,Finland,Kimi Räikkönen,1,1
+12,piquet_jr,Brazil,Nelson Piquet Jr.,1,3
+18,button,United Kingdom,Jenson Button,1,1
+20,vettel,Germany,Sebastian Vettel,1,4
+30,michael_schumacher,Germany,Michael Schumacher,1,7
+35,villeneuve,Canada,Jacques Villeneuve,1,1
+57,hakkinen,Finland,Mika Häkkinen,1,2
+71,damon_hill,United Kingdom,Damon Hill,1,1
+95,mansell,United Kingdom,Nigel Mansell,1,1
+102,senna,Brazil,Ayrton Senna,1,3
+117,prost,France,Alain Prost,1,4
+177,keke_rosberg,Finland,Keke Rosberg,1,1
+178,jones,Australia,Alan Jones,1,1
+182,lauda,Austria,Niki Lauda,1,3
+207,mario_andretti,United States of America,Mario Andretti,1,1
+222,scheckter,South Africa,Jody Scheckter,1,1
+224,emerson_fittipaldi,Brazil,Emerson Fittipaldi,1,2
+231,hunt,United Kingdom,James Hunt,1,1
+289,hill,United Kingdom,Graham Hill,1,2
+304,hulme,New Zealand,Denny Hulme,1,1
+328,stewart,United Kingdom,Jackie Stewart,1,3
+341,surtees,United Kingdom,John Surtees,1,1
+356,jack_brabham,Australia,Jack Brabham,1,3
+358,rindt,Austria,Jochen Rindt,1,1
+373,clark,United Kingdom,Jim Clark,1,2
+403,phil_hill,United States of America,Phil Hill,1,1
+578,hawthorn,United Kingdom,Mike Hawthorn,1,1
+579,fangio,Argentina,Juan Fangio,1,5
+642,farina,Italy,Nino Farina,1,1
+647,ascari,Italy,Alberto Ascari,1,2
+2,heidfeld,Germany,Nick Heidfeld,1,0
+5,kovalainen,Finland,Heikki Kovalainen,1,0
+6,nakajima,Japan,Kazuki Nakajima,1,0
+7,bourdais,France,Sébastien Bourdais,1,0
+9,kubica,Poland,Robert Kubica,1,0
+10,glock,Germany,Timo Glock,1,0
+11,sato,Japan,Takuma Sato,1,0
+13,massa,Brazil,Felipe Massa,1,0
+14,coulthard,United Kingdom,David Coulthard,1,0
+15,trulli,Italy,Jarno Trulli,1,0
+16,sutil,Germany,Adrian Sutil,1,0
+17,webber,Australia,Mark Webber,1,0
+19,davidson,United Kingdom,Anthony Davidson,1,0
+21,fisichella,Italy,Giancarlo Fisichella,1,0
+22,barrichello,Brazil,Rubens Barrichello,1,0
+23,ralf_schumacher,Germany,Ralf Schumacher,1,0
+24,liuzzi,Italy,Vitantonio Liuzzi,1,0
+25,wurz,Austria,Alexander Wurz,1,0
+26,speed,United States of America,Scott Speed,1,0
+27,albers,Netherlands,Christijan Albers,1,0
+28,markus_winkelhock,Germany,Markus Winkelhock,1,0
+29,yamamoto,Japan,Sakon Yamamoto,1,0
+31,montoya,Colombia,Juan Pablo Montoya,1,0
+32,klien,Austria,Christian Klien,1,0
+33,monteiro,Portugal,Tiago Monteiro,1,0
+34,ide,Japan,Yuji Ide,1,0
+36,montagny,France,Franck Montagny,1,0
+37,rosa,Spain,Pedro de la Rosa,1,0
+38,doornbos,Netherlands,Robert Doornbos,1,0
+39,karthikeyan,India,Narain Karthikeyan,1,0
+40,friesacher,Austria,Patrick Friesacher,1,0
+41,zonta,Brazil,Ricardo Zonta,1,0
+42,pizzonia,Brazil,Antônio Pizzonia,1,0
+43,matta,Brazil,Cristiano da Matta,1,0
+44,panis,France,Olivier Panis,1,0
+45,pantano,Italy,Giorgio Pantano,1,0
+46,bruni,Italy,Gianmaria Bruni,1,0
+47,baumgartner,NA,Zsolt Baumgartner,1,0
+48,gene,Spain,Marc Gené,1,0
+49,frentzen,Germany,Heinz-Harald Frentzen,1,0
+50,verstappen,Netherlands,Jos Verstappen,1,0
+51,wilson,United Kingdom,Justin Wilson,1,0
+52,firman,Ireland,Ralph Firman,1,0
+53,kiesa,Denmark,Nicolas Kiesa,1,0
+54,burti,Brazil,Luciano Burti,1,0
+55,alesi,France,Jean Alesi,1,0
+56,irvine,United Kingdom,Eddie Irvine,1,0
+58,marques,Brazil,Tarso Marques,1,0
+59,bernoldi,Brazil,Enrique Bernoldi,1,0
+60,mazzacane,Argentina,Gastón Mazzacane,1,0
+61,enge,Czechia,Tomáš Enge,1,0
+62,yoong,Malaysia,Alex Yoong,1,0
+63,salo,Finland,Mika Salo,1,0
+64,diniz,Brazil,Pedro Diniz,1,0
+65,herbert,United Kingdom,Johnny Herbert,1,0
+66,mcnish,United Kingdom,Allan McNish,1,0
+67,buemi,Switzerland,Sébastien Buemi,1,0
+68,takagi,Japan,Toranosuke Takagi,1,0
+69,badoer,Italy,Luca Badoer,1,0
+70,zanardi,Italy,Alessandro Zanardi,1,0
+72,sarrazin,France,Stéphane Sarrazin,1,0
+73,rosset,Brazil,Ricardo Rosset,1,0
+74,tuero,Argentina,Esteban Tuero,1,0
+75,nakano,Japan,Shinji Nakano,1,0
+76,magnussen,Denmark,Jan Magnussen,1,0
+77,berger,Austria,Gerhard Berger,1,0
+78,larini,Italy,Nicola Larini,1,0
+79,katayama,Japan,Ukyo Katayama,1,0
+80,sospiri,Italy,Vincenzo Sospiri,1,0
+81,morbidelli,Italy,Gianni Morbidelli,1,0
+82,fontana,Argentina,Norberto Fontana,1,0
+83,lamy,Portugal,Pedro Lamy,1,0
+84,brundle,United Kingdom,Martin Brundle,1,0
+85,montermini,Italy,Andrea Montermini,1,0
+86,lavaggi,Italy,Giovanni Lavaggi,1,0
+87,blundell,United Kingdom,Mark Blundell,1,0
+88,suzuki,Japan,Aguri Suzuki,1,0
+89,inoue,Japan,Taki Inoue,1,0
+90,moreno,Brazil,Roberto Moreno,1,0
+91,wendlinger,Austria,Karl Wendlinger,1,0
+92,gachot,Belgium,Bertrand Gachot,1,0
+93,schiattarella,Italy,Domenico Schiattarella,1,0
+94,martini,Italy,Pierluigi Martini,1,0
+96,boullion,France,Jean-Christophe Boullion,1,0
+97,papis,Italy,Massimiliano Papis,1,0
+98,deletraz,Switzerland,Jean-Denis Délétraz,1,0
+99,tarquini,Italy,Gabriele Tarquini,1,0
+100,comas,France,Érik Comas,1,0
+101,brabham,Australia,David Brabham,1,0
+103,bernard,France,Éric Bernard,1,0
+104,fittipaldi,Brazil,Christian Fittipaldi,1,0
+105,alboreto,Italy,Michele Alboreto,1,0
+106,beretta,Monaco,Olivier Beretta,1,0
+107,ratzenberger,Austria,Roland Ratzenberger,1,0
+108,belmondo,France,Paul Belmondo,1,0
+109,lehto,Finland,Jyrki Järvilehto,1,0
+110,cesaris,Italy,Andrea de Cesaris,1,0
+111,gounon,France,Jean-Marc Gounon,1,0
+112,alliot,France,Philippe Alliot,1,0
+113,adams,Belgium,Philippe Adams,1,0
+114,dalmas,France,Yannick Dalmas,1,0
+115,noda,Japan,Hideki Noda,1,0
+116,lagorce,France,Franck Lagorce,1,0
+118,warwick,United Kingdom,Derek Warwick,1,0
+119,patrese,Italy,Riccardo Patrese,1,0
+120,barbazza,Italy,Fabrizio Barbazza,1,0
+121,andretti,United States of America,Michael Andretti,1,0
+122,capelli,Italy,Ivan Capelli,1,0
+123,boutsen,Belgium,Thierry Boutsen,1,0
+124,apicella,Italy,Marco Apicella,1,0
+125,naspetti,Italy,Emanuele Naspetti,1,0
+126,toshio_suzuki,Japan,Toshio Suzuki,1,0
+127,gugelmin,Brazil,Maurício Gugelmin,1,0
+128,poele,Belgium,Eric van de Poele,1,0
+129,grouillard,France,Olivier Grouillard,1,0
+130,chiesa,Switzerland,Andrea Chiesa,1,0
+131,modena,Italy,Stefano Modena,1,0
+132,amati,Italy,Giovanna Amati,1,0
+133,caffi,Italy,Alex Caffi,1,0
+134,bertaggia,Italy,Enrico Bertaggia,1,0
+135,mccarthy,United Kingdom,Perry McCarthy,1,0
+136,lammers,Netherlands,Jan Lammers,1,0
+137,piquet,Brazil,Nelson Piquet,1,0
+138,satoru_nakajima,Japan,Satoru Nakajima,1,0
+139,pirro,Italy,Emanuele Pirro,1,0
+140,johansson,Sweden,Stefan Johansson,1,0
+141,bailey,United Kingdom,Julian Bailey,1,0
+142,chaves,Portugal,Pedro Chaves,1,0
+143,bartels,Germany,Michael Bartels,1,0
+144,hattori,Japan,Naoki Hattori,1,0
+145,nannini,Italy,Alessandro Nannini,1,0
+146,schneider,Germany,Bernd Schneider,1,0
+147,barilla,Italy,Paolo Barilla,1,0
+148,foitek,Switzerland,Gregor Foitek,1,0
+149,langes,Italy,Claudio Langes,1,0
+150,gary_brabham,Australia,Gary Brabham,1,0
+151,donnelly,United Kingdom,Martin Donnelly,1,0
+152,giacomelli,Italy,Bruno Giacomelli,1,0
+153,alguersuari,Spain,Jaime Alguersuari,1,0
+154,grosjean,France,Romain Grosjean,1,0
+155,kobayashi,Japan,Kamui Kobayashi,1,0
+156,palmer,United Kingdom,Jonathan Palmer,1,0
+157,danner,Germany,Christian Danner,1,0
+158,cheever,United States of America,Eddie Cheever,1,0
+159,sala,Spain,Luis Pérez-Sala,1,0
+160,ghinzani,Italy,Piercarlo Ghinzani,1,0
+161,weidler,Germany,Volker Weidler,1,0
+162,raphanel,France,Pierre-Henri Raphanel,1,0
+163,arnoux,France,René Arnoux,1,0
+164,joachim_winkelhock,Germany,Joachim Winkelhock,1,0
+165,larrauri,Argentina,Oscar Larrauri,1,0
+166,streiff,France,Philippe Streiff,1,0
+167,campos,Spain,Adrián Campos,1,0
+168,schlesser,France,Jean-Louis Schlesser,1,0
+169,fabre,France,Pascal Fabre,1,0
+170,fabi,Italy,Teo Fabi,1,0
+171,forini,Switzerland,Franco Forini,1,0
+172,laffite,France,Jacques Laffite,1,0
+173,angelis,Italy,Elio de Angelis,1,0
+174,dumfries,United Kingdom,Johnny Dumfries,1,0
+175,tambay,France,Patrick Tambay,1,0
+176,surer,Switzerland,Marc Surer,1,0
+179,rothengatter,Netherlands,Huub Rothengatter,1,0
+180,berg,Canada,Allen Berg,1,0
+181,manfred_winkelhock,Germany,Manfred Winkelhock,1,0
+183,hesnault,France,François Hesnault,1,0
+184,baldi,Italy,Mauro Baldi,1,0
+185,bellof,Germany,Stefan Bellof,1,0
+186,acheson,United Kingdom,Kenny Acheson,1,0
+187,watson,United Kingdom,John Watson,1,0
+188,cecotto,Venezuela,Johnny Cecotto,1,0
+189,gartner,Austria,Jo Gartner,1,0
+190,corrado_fabi,Italy,Corrado Fabi,1,0
+191,thackwell,New Zealand,Mike Thackwell,1,0
+192,serra,Brazil,Chico Serra,1,0
+193,sullivan,United States of America,Danny Sullivan,1,0
+194,salazar,Chile,Eliseo Salazar,1,0
+195,guerrero,Colombia,Roberto Guerrero,1,0
+196,boesel,Brazil,Raul Boesel,1,0
+197,jarier,France,Jean-Pierre Jarier,1,0
+198,villeneuve_sr,Canada,Jacques Villeneuve Sr.,1,0
+199,reutemann,Argentina,Carlos Reutemann,1,0
+200,mass,Germany,Jochen Mass,1,0
+201,borgudd,Sweden,Slim Borgudd,1,0
+202,pironi,France,Didier Pironi,1,0
+203,gilles_villeneuve,Canada,Gilles Villeneuve,1,0
+204,paletti,Italy,Riccardo Paletti,1,0
+205,henton,United Kingdom,Brian Henton,1,0
+206,daly,Ireland,Derek Daly,1,0
+208,villota,Spain,Emilio de Villota,1,0
+209,lees,United Kingdom,Geoff Lees,1,0
+210,byrne,Ireland,Tommy Byrne,1,0
+211,keegan,United Kingdom,Rupert Keegan,1,0
+212,rebaque,Mexico,Hector Rebaque,1,0
+213,gabbiani,Italy,Beppe Gabbiani,1,0
+214,cogan,United States of America,Kevin Cogan,1,0
+215,guerra,Argentina,Miguel Ángel Guerra,1,0
+216,stohr,Italy,Siegfried Stohr,1,0
+217,zunino,Argentina,Ricardo Zunino,1,0
+218,londono,Colombia,Ricardo Londoño,1,0
+219,jabouille,France,Jean-Pierre Jabouille,1,0
+220,francia,Italy,Giorgio Francia,1,0
+221,depailler,France,Patrick Depailler,1,0
+223,regazzoni,Switzerland,Clay Regazzoni,1,0
+225,kennedy,Ireland,Dave Kennedy,1,0
+226,south,United Kingdom,Stephen South,1,0
+227,needell,United Kingdom,Tiff Needell,1,0
+228,desire_wilson,South Africa,Desiré Wilson,1,0
+229,ertl,Austria,Harald Ertl,1,0
+230,brambilla,Italy,Vittorio Brambilla,1,0
+232,merzario,Italy,Arturo Merzario,1,0
+233,stuck,Germany,Hans-Joachim Stuck,1,0
+234,brancatelli,Italy,Gianfranco Brancatelli,1,0
+235,ickx,Belgium,Jacky Ickx,1,0
+236,gaillard,France,Patrick Gaillard,1,0
+237,ribeiro,Brazil,Alex Ribeiro,1,0
+238,peterson,Sweden,Ronnie Peterson,1,0
+239,lunger,United States of America,Brett Lunger,1,0
+240,ongais,United States of America,Danny Ongais,1,0
+241,leoni,Italy,Lamberto Leoni,1,0
+242,galica,United Kingdom,Divina Galica,1,0
+243,stommelen,Germany,Rolf Stommelen,1,0
+244,colombo,Italy,Alberto Colombo,1,0
+245,trimmer,United Kingdom,Tony Trimmer,1,0
+246,binder,Austria,Hans Binder,1,0
+247,bleekemolen,Netherlands,Michael Bleekemolen,1,0
+248,gimax,Italy,Carlo Franchi,1,0
+249,rahal,United States of America,Bobby Rahal,1,0
+250,pace,Brazil,Carlos Pace,1,0
+251,ian_scheckter,South Africa,Ian Scheckter,1,0
+252,pryce,United Kingdom,Tom Pryce,1,0
+253,hoffmann,Brazil,Ingo Hoffmann,1,0
+254,zorzi,Italy,Renzo Zorzi,1,0
+255,nilsson,Sweden,Gunnar Nilsson,1,0
+256,perkins,Australia,Larry Perkins,1,0
+257,hayje,Netherlands,Boy Lunger,1,0
+258,neve,Belgium,Patrick Nève,1,0
+259,purley,United Kingdom,David Purley,1,0
+260,andersson,Sweden,Conny Andersson,1,0
+261,dryver,Belgium,Bernard de Dryver,1,0
+262,oliver,United Kingdom,Jackie Oliver,1,0
+263,kozarowitzky,Finland,Mikko Kozarowitzky,1,0
+264,sutcliffe,United Kingdom,Andy Sutcliffe,1,0
+265,edwards,United Kingdom,Guy Edwards,1,0
+266,mcguire,Australia,Brian McGuire,1,0
+267,schuppan,Australia,Vern Schuppan,1,0
+268,heyer,Germany,Hans Heyer,1,0
+269,pilette,Belgium,Teddy Pilette,1,0
+270,ashley,United Kingdom,Ian Ashley,1,0
+271,kessel,Switzerland,Loris Kessel,1,0
+272,takahashi,Japan,Kunimitsu Takahashi,1,0
+273,hoshino,Japan,Kazuyoshi Hoshino,1,0
+274,takahara,Japan,Noritake Takahara,1,0
+275,lombardi,Italy,Lella Lombardi,1,0
+276,evans,United Kingdom,Bob Evans,1,0
+277,leclere,France,Michel Leclère,1,0
+278,amon,New Zealand,Chris Amon,1,0
+279,zapico,Spain,Emilio Zapico,1,0
+280,pescarolo,France,Henri Pescarolo,1,0
+281,nelleman,Denmark,Jac Nelleman,1,0
+282,magee,United Kingdom,Damien Magee,1,0
+283,wilds,United Kingdom,Mike Wilds,1,0
+284,pesenti_rossi,Italy,Alessandro Pesenti-Rossi,1,0
+285,stuppacher,Austria,Otto Stuppacher,1,0
+286,brown,Australia,Warwick Brown,1,0
+287,hasemi,Japan,Masahiro Hasemi,1,0
+288,donohue,United States of America,Mark Donohue,1,0
+290,wilson_fittipaldi,Brazil,Wilson Fittipaldi,1,0
+291,tunmer,South Africa,Guy Tunmer,1,0
+292,keizan,South Africa,Eddie Keizan,1,0
+293,charlton,South Africa,Dave Charlton,1,0
+294,brise,United Kingdom,Tony Brise,1,0
+295,wunderink,Netherlands,Roelof Wunderink,1,0
+296,migault,France,François Migault,1,0
+297,palm,Sweden,Torsten Palm,1,0
+298,lennep,Netherlands,Gijs van Lennep,1,0
+299,fushida,Japan,Hiroshi Fushida,1,0
+300,nicholson,New Zealand,John Nicholson,1,0
+301,morgan,United Kingdom,Dave Morgan,1,0
+302,crawford,United Kingdom,Jim Crawford,1,0
+303,vonlanthen,Switzerland,Jo Vonlanthen,1,0
+305,hailwood,United Kingdom,Mike Hailwood,1,0
+306,beltoise,France,Jean-Pierre Beltoise,1,0
+307,ganley,New Zealand,Howden Ganley,1,0
+308,robarts,United Kingdom,Richard Robarts,1,0
+309,revson,United States of America,Peter Revson,1,0
+310,driver,South Africa,Paddy Driver,1,0
+311,belso,Denmark,Tom Belsø,1,0
+312,redman,United Kingdom,Brian Redman,1,0
+313,opel,NA,Rikky von Opel,1,0
+314,schenken,Australia,Tim Schenken,1,0
+315,larrousse,France,Gérard Larrousse,1,0
+316,kinnunen,Finland,Leo Kinnunen,1,0
+317,wisell,Sweden,Reine Wisell,1,0
+318,roos,Sweden,Bertil Roos,1,0
+319,dolhem,France,José Dolhem,1,0
+320,gethin,United Kingdom,Peter Gethin,1,0
+321,bell,United Kingdom,Derek Bell,1,0
+322,hobbs,United Kingdom,David Hobbs,1,0
+323,quester,Austria,Dieter Quester,1,0
+324,koinigg,Austria,Helmuth Koinigg,1,0
+325,facetti,Italy,Carlo Facetti,1,0
+326,wietzes,Canada,Eppie Wietzes,1,0
+327,cevert,France,François Cevert,1,0
+329,beuttler,United Kingdom,Mike Beuttler,1,0
+330,galli,Italy,Nanni Galli,1,0
+331,bueno,Brazil,Luiz Bueno,1,0
+332,follmer,United States of America,George Follmer,1,0
+333,adamich,Italy,Andrea de Adamich,1,0
+334,pretorius,South Africa,Jackie Pretorius,1,0
+335,williamson,United Kingdom,Roger Williamson,1,0
+336,mcrae,New Zealand,Graham McRae,1,0
+337,marko,Austria,Helmut Marko,1,0
+338,walker,Australia,David Walker,1,0
+339,roig,Spain,Alex Soler-Roig,1,0
+340,love,Zimbabwe,John Love,1,0
+342,barber,United States of America,Skip Barber,1,0
+343,brack,Canada,Bill Brack,1,0
+344,posey,United States of America,Sam Posey,1,0
+345,rodriguez,Mexico,Pedro Rodríguez,1,0
+346,siffert,Switzerland,Jo Siffert,1,0
+347,bonnier,Sweden,Jo Bonnier,1,0
+348,mazet,France,François Mazet,1,0
+349,jean,France,Max Jean,1,0
+350,elford,United Kingdom,Vic Elford,1,0
+351,moser,Switzerland,Silvio Moser,1,0
+352,eaton,Canada,George Eaton,1,0
+353,lovely,United States of America,Pete Lovely,1,0
+354,craft,United Kingdom,Chris Craft,1,0
+355,Cannoc,Canada,John Cannon,1,0
+357,miles,United Kingdom,John Miles,1,0
+359,gavin,France,Johnny Servoz-Gavin,1,0
+360,mclaren,New Zealand,Bruce McLaren,1,0
+361,courage,United Kingdom,Piers Courage,1,0
+362,klerk,South Africa,Peter de Klerk,1,0
+363,giunti,Italy,Ignazio Giunti,1,0
+364,gurney,United States of America,Dan Gurney,1,0
+365,hahne,Germany,Hubert Hahne,1,0
+366,hutchison,United States of America,Gus Hutchison,1,0
+367,westbury,United Kingdom,Peter Westbury,1,0
+368,tingle,Zimbabwe,Sam Tingle,1,0
+369,rooyen,South Africa,Basil van Rooyen,1,0
+370,attwood,United Kingdom,Richard Attwood,1,0
+371,pease,Canada,Al Pease,1,0
+372,cordts,Canada,John Cordts,1,0
+374,spence,United Kingdom,Mike Spence,1,0
+375,scarfiotti,Italy,Ludovico Scarfiotti,1,0
+376,bianchi,Belgium,Lucien Bianchi,1,0
+377,jo_schlesser,France,Jo Schlesser,1,0
+378,widdows,United Kingdom,Robin Widdows,1,0
+379,ahrens,Germany,Kurt Ahrens,1,0
+380,gardner,Australia,Frank Gardner,1,0
+381,unser,United States of America,Bobby Unser,1,0
+382,solana,Mexico,Moisés Solana,1,0
+383,anderson,United Kingdom,Bob Anderson,1,0
+384,botha,South Africa,Luki Botha,1,0
+385,bandini,Italy,Lorenzo Bandini,1,0
+386,ginther,United States of America,Richie Ginther,1,0
+387,parkes,United Kingdom,Mike Parkes,1,0
+388,irwin,United Kingdom,Chris Irwin,1,0
+389,ligier,France,Guy Ligier,1,0
+390,rees,United Kingdom,Alan Rees,1,0
+391,hart,United Kingdom,Brian Hart,1,0
+392,fisher,United States of America,Mike Fisher,1,0
+393,tom_jones,United States of America,Tom Jones,1,0
+394,baghetti,Italy,Giancarlo Baghetti,1,0
+395,williams,United Kingdom,Jonathan Williams,1,0
+396,bondurant,United States of America,Bob Bondurant,1,0
+397,arundell,United Kingdom,Peter Arundell,1,0
+398,vic_wilson,United Kingdom,Vic Wilson,1,0
+399,taylor,United Kingdom,John Taylor,1,0
+400,lawrence,United Kingdom,Chris Lawrence,1,0
+401,trevor_taylor,United Kingdom,Trevor Taylor,1,0
+402,geki,Italy,Giacomo Russo,1,0
+404,ireland,United Kingdom,Innes Ireland,1,0
+405,bucknum,United States of America,Ronnie Bucknum,1,0
+406,hawkins,Australia,Paul Hawkins,1,0
+407,prophet,United Kingdom,David Prophet,1,0
+408,maggs,South Africa,Tony Maggs,1,0
+409,blokdyk,South Africa,Trevor Blokdyk,1,0
+410,lederle,South Africa,Neville Lederle,1,0
+411,serrurier,South Africa,Doug Serrurier,1,0
+412,niemann,South Africa,Brausch Niemann,1,0
+413,pieterse,South Africa,Ernie Pieterse,1,0
+414,puzey,Zimbabwe,Clive Puzey,1,0
+415,reed,South Africa,Ray Reed,1,0
+416,clapham,South Africa,David Clapham,1,0
+417,blignaut,South Africa,Alex Blignaut,1,0
+418,gregory,United States of America,Masten Gregory,1,0
+419,rhodes,United Kingdom,John Rhodes,1,0
+420,raby,United Kingdom,Ian Raby,1,0
+421,rollinson,United Kingdom,Alan Rollinson,1,0
+422,gubby,United Kingdom,Brian Gubby,1,0
+423,mitter,Germany,Gerhard Mitter,1,0
+424,bussinello,Italy,Roberto Bussinello,1,0
+425,vaccarella,Italy,Nino Vaccarella,1,0
+426,bassi,Italy,Giorgio Bassi,1,0
+427,trintignant,France,Maurice Trintignant,1,0
+428,collomb,France,Bernard Collomb,1,0
+429,andre_pilette,Belgium,André Pilette,1,0
+430,beaufort,Netherlands,Carel Godin de Beaufort,1,0
+431,barth,Germany,Edgar Barth,1,0
+432,cabral,Portugal,Mário de Araújo Cabral,1,0
+433,hansgen,United States of America,Walt Hansgen,1,0
+434,sharp,United States of America,Hap Sharp,1,0
+435,mairesse,Belgium,Willy Mairesse,1,0
+436,campbell-jones,United Kingdom,John Campbell-Jones,1,0
+437,burgess,United Kingdom,Ian Burgess,1,0
+438,settember,United States of America,Tony Settember,1,0
+439,estefano,Argentina,Nasif Estéfano,1,0
+440,hall,United States of America,Jim Hall,1,0
+441,parnell,United Kingdom,Tim Parnell,1,0
+442,kuhnke,Germany,Kurt Kuhnke,1,0
+443,ernesto_brambilla,Italy,Ernesto Brambilla,1,0
+444,lippi,Italy,Roberto Lippi,1,0
+445,seiffert,Germany,Günther Seiffert,1,0
+446,abate,Italy,Carlo Abate,1,0
+447,starrabba,Italy,Gaetano Starrabba,1,0
+448,broeker,Canada,Peter Broeker,1,0
+449,ward,United States of America,Rodger Ward,1,0
+450,vos,Netherlands,Ernie de Vos,1,0
+451,dochnal,United States of America,Frank Dochnal,1,0
+452,monarch,United States of America,Thomas Monarch,1,0
+842,gasly,France,Pierre Gasly,1,0
+453,lewis,United Kingdom,Jackie Lewis,1,0
+454,ricardo_rodriguez,Mexico,Ricardo Rodríguez,1,0
+455,seidel,Germany,Wolfgang Seidel,1,0
+456,salvadori,United Kingdom,Roy Salvadori,1,0
+457,pon,Netherlands,Ben Pon,1,0
+458,slotemaker,Netherlands,Rob Slotemaker,1,0
+459,marsh,United Kingdom,Tony Marsh,1,0
+460,ashmore,United Kingdom,Gerry Ashmore,1,0
+461,schiller,Switzerland,Heinz Schiller,1,0
+462,davis,United Kingdom,Colin Davis,1,0
+463,chamberlain,United States of America,Jay Chamberlain,1,0
+464,shelly,New Zealand,Tony Shelly,1,0
+465,greene,United Kingdom,Keith Greene,1,0
+466,walter,Switzerland,Heini Walter,1,0
+467,prinoth,Italy,Ernesto Prinoth,1,0
+468,penske,United States of America,Roger Penske,1,0
+469,schroeder,United Kingdom,Rob Schroeder,1,0
+470,mayer,United States of America,Timmy Mayer,1,0
+471,johnstone,South Africa,Bruce Johnstone,1,0
+472,harris,South Africa,Mike Harris,1,0
+473,hocking,Zimbabwe,Gary Hocking,1,0
+474,vyver,South Africa,Syd van der Vyver,1,0
+475,moss,United Kingdom,Stirling Moss,1,0
+476,trips,Germany,Wolfgang von Trips,1,0
+477,allison,United Kingdom,Cliff Allison,1,0
+478,herrmann,Germany,Hans Herrmann,1,0
+479,brooks,United Kingdom,Tony Brooks,1,0
+480,may,Switzerland,Michael May,1,0
+481,henry_taylor,United Kingdom,Henry Taylor,1,0
+482,gendebien,Belgium,Olivier Gendebien,1,0
+483,scarlatti,Italy,Giorgio Scarlatti,1,0
+484,naylor,United Kingdom,Brian Naylor,1,0
+485,bordeu,Argentina,Juan Manuel Bordeu,1,0
+486,fairman,United Kingdom,Jack Fairman,1,0
+487,natili,Italy,Massimo Natili,1,0
+488,monteverdi,Switzerland,Peter Monteverdi,1,0
+489,pirocchi,Italy,Renato Pirocchi,1,0
+490,duke,United Kingdom,Geoff Duke,1,0
+491,thiele,Italy,Alfonso Thiele,1,0
+492,boffa,Italy,Menato Boffa,1,0
+493,ryan,Canada,Peter Ryan,1,0
+494,ruby,United States of America,Lloyd Ruby,1,0
+495,ken_miles,United Kingdom,Ken Miles,1,0
+496,menditeguy,Argentina,Carlos Menditeguy,1,0
+497,larreta,Argentina,Alberto Rodriguez Larreta,1,0
+498,gonzalez,Argentina,José Froilán González,1,0
+499,bonomi,Argentina,Roberto Bonomi,1,0
+500,munaron,Italy,Gino Munaron,1,0
+501,schell,United States of America,Harry Schell,1,0
+502,stacey,United Kingdom,Alan Stacey,1,0
+503,chimeri,Venezuela,Ettore Chimeri,1,0
+504,creus,Spain,Antonio Creus,1,0
+505,bristow,United Kingdom,Chris Bristow,1,0
+506,halford,United Kingdom,Bruce Halford,1,0
+507,daigh,United States of America,Chuck Daigh,1,0
+508,reventlow,United States of America,Lance Reventlow,1,0
+509,rathmann,United States of America,Jim Rathmann,1,0
+510,goldsmith,United States of America,Paul Goldsmith,1,0
+511,branson,United States of America,Don Branson,1,0
+512,thomson,United States of America,Johnny Thomson,1,0
+513,johnson,United States of America,Eddie Johnson,1,0
+514,veith,United States of America,Bob Veith,1,0
+515,tingelstad,United States of America,Bud Tingelstad,1,0
+516,christie,United States of America,Bob Christie,1,0
+517,amick,United States of America,Red Amick,1,0
+518,darter,United States of America,Duane Carter,1,0
+519,homeier,United States of America,Bill Homeier,1,0
+520,hartley,United States of America,Gene Hartley,1,0
+521,stevenson,United States of America,Chuck Stevenson,1,0
+522,grim,United States of America,Bobby Grim,1,0
+523,templeman,United States of America,Shorty Templeman,1,0
+524,hurtubise,United States of America,Jim Hurtubise,1,0
+525,bryan,United States of America,Jimmy Bryan,1,0
+526,ruttman,United States of America,Troy Ruttman,1,0
+527,sachs,United States of America,Eddie Sachs,1,0
+528,freeland,United States of America,Don Freeland,1,0
+529,bettenhausen,United States of America,Tony Bettenhausen,1,0
+530,weiler,United States of America,Wayne Weiler,1,0
+531,foyt,United States of America,Anthony Foyt,1,0
+532,russo,United States of America,Eddie Russo,1,0
+533,boyd,United States of America,Johnny Boyd,1,0
+534,force,United States of America,Gene Force,1,0
+535,mcwithey,United States of America,Jim McWithey,1,0
+536,sutton,United States of America,Len Sutton,1,0
+537,dick_rathmann,United States of America,Dick Rathmann,1,0
+538,herman,United States of America,Al Herman,1,0
+539,dempsey_wilson,United States of America,Dempsey Wilson,1,0
+540,mike_taylor,United Kingdom,Mike Taylor,1,0
+541,flockhart,United Kingdom,Ron Flockhart,1,0
+542,piper,United Kingdom,David Piper,1,0
+543,cabianca,Italy,Giulio Cabianca,1,0
+544,drogo,Italy,Piero Drogo,1,0
+545,gamble,United States of America,Fred Gamble,1,0
+546,owen,United Kingdom,Arthur Owen,1,0
+547,gould,United Kingdom,Horace Gould,1,0
+548,drake,United States of America,Bob Drake,1,0
+549,bueb,United Kingdom,Ivor Bueb,1,0
+550,Changy,Belgium,Alain de Changy,1,0
+551,filippis,Italy,Maria de Filippis,1,0
+552,lucienbonnet,France,Jean Lucienbonnet,1,0
+553,testut,Monaco,André Testut,1,0
+554,behra,France,Jean Behra,1,0
+555,paul_russo,United States of America,Paul Russo,1,0
+556,daywalt,United States of America,Jimmy Daywalt,1,0
+557,arnold,United States of America,Chuck Arnold,1,0
+558,keller,United States of America,Al Keller,1,0
+559,flaherty,United States of America,Pat Flaherty,1,0
+560,cheesbourg,United States of America,Bill Cheesbourg,1,0
+561,ray_crawford,United States of America,Ray Crawford,1,0
+562,turner,United States of America,Jack Turner,1,0
+563,weyant,United States of America,Chuck Weyant,1,0
+564,larson,United States of America,Jud Larson,1,0
+565,magill,United States of America,Mike Magill,1,0
+566,shelby,United States of America,Carroll Shelby,1,0
+567,orey,Brazil,Fritz d'Orey,1,0
+568,fontes,Uruguay,Azdrubal Fontes,1,0
+569,ashdown,United Kingdom,Peter Ashdown,1,0
+570,bill_moss,United Kingdom,Bill Moss,1,0
+571,dennis_taylor,United Kingdom,Dennis Taylor,1,0
+572,blanchard,United States of America,Harry Blanchard,1,0
+573,tomaso,Argentina,Alessandro de Tomaso,1,0
+574,constantine,United States of America,George Constantine,1,0
+575,said,United States of America,Bob Said,1,0
+576,cade,United States of America,Phil Cade,1,0
+577,musso,Italy,Luigi Musso,1,0
+580,godia,Spain,Paco Godia,1,0
+581,collins,United Kingdom,Peter Collins,1,0
+582,kavanagh,Australia,Ken Kavanagh,1,0
+583,gerini,Italy,Gerino Gerini,1,0
+584,kessler,United States of America,Bruce Kessler,1,0
+585,emery,United Kingdom,Paul Emery,1,0
+586,piotti,Italy,Luigi Piotti,1,0
+587,ecclestone,United Kingdom,Bernie Ecclestone,1,0
+588,taramazzo,Italy,Luigi Taramazzo,1,0
+589,chiron,Monaco,Louis Chiron,1,0
+590,lewis-evans,United Kingdom,Stuart Lewis-Evans,1,0
+591,george_amick,United States of America,George Amick,1,0
+592,reece,United States of America,Jimmy Reece,1,0
+593,parsons,United States of America,Johnnie Parsons,1,0
+594,tolan,United States of America,Johnnie Tolan,1,0
+595,garrett,United States of America,Billy Garrett,1,0
+596,elisian,United States of America,Ed Elisian,1,0
+597,connor,United States of America,Pat O'Connor,1,0
+598,jerry_unser,United States of America,Jerry Unser,1,0
+599,bisch,United States of America,Art Bisch,1,0
+600,goethals,Belgium,Christian Goethals,1,0
+601,gibson,United Kingdom,Dick Gibson,1,0
+602,la_caze,France,Robert La Caze,1,0
+603,guelfi,France,André Guelfi,1,0
+604,picard,France,François Picard,1,0
+605,bridger,United Kingdom,Tom Bridger,1,0
+606,portago,Spain,Alfonso de Portago,1,0
+607,perdisa,Italy,Cesare Perdisa,1,0
+608,castellotti,Italy,Eugenio Castellotti,1,0
+609,simon,France,André Simon,1,0
+610,leston,United Kingdom,Les Leston,1,0
+611,hanks,United States of America,Sam Hanks,1,0
+612,linden,United States of America,Andy Linden,1,0
+613,teague,United States of America,Marshall Teague,1,0
+614,edmunds,United States of America,Don Edmunds,1,0
+615,agabashian,United States of America,Fred Agabashian,1,0
+616,george,United States of America,Elmer George,1,0
+617,macdowel,United Kingdom,Mike MacDowel,1,0
+618,mackay-fraser,United States of America,Herbert MacKay-Fraser,1,0
+619,gerard,United Kingdom,Bob Gerard,1,0
+620,maglioli,Italy,Umberto Maglioli,1,0
+621,england,Australia,Paul England,1,0
+622,landi,Brazil,Chico Landi,1,0
+623,uria,Uruguay,Alberto Uria,1,0
+624,ramos,Brazil,Hernando da Silva Ramos,1,0
+625,bayol,France,Élie Bayol,1,0
+626,manzon,France,Robert Manzon,1,0
+627,rosier,France,Louis Rosier,1,0
+628,sweikert,United States of America,Bob Sweikert,1,0
+629,griffith,United States of America,Cliff Griffith,1,0
+630,dinsmore,United States of America,Duke Dinsmore,1,0
+631,andrews,United States of America,Keith Andrews,1,0
+632,frere,Belgium,Paul Frère,1,0
+633,villoresi,Italy,Luigi Villoresi,1,0
+634,scotti,Italy,Piero Scotti,1,0
+635,chapman,United Kingdom,Colin Chapman,1,0
+636,titterington,United Kingdom,Desmond Titterington,1,0
+637,scott_Brown,United Kingdom,Archie Scott Brown,1,0
+638,volonterio,Switzerland,Ottorino Volonterio,1,0
+639,milhoux,Belgium,André Milhoux,1,0
+640,graffenried,Switzerland,Toulo de Graffenried,1,0
+641,taruffi,Italy,Piero Taruffi,1,0
+643,mieres,Argentina,Roberto Mieres,1,0
+644,mantovani,Italy,Sergio Mantovani,1,0
+645,bucci,Argentina,Clemar Bucci,1,0
+646,iglesias,Argentina,Jesús Iglesias,1,0
+648,kling,Germany,Karl Kling,1,0
+649,birger,Argentina,Pablo Birger,1,0
+650,pollet,France,Jacques Pollet,1,0
+651,macklin,United Kingdom,Lance Macklin,1,0
+652,whiteaway,United Kingdom,Ted Whiteaway,1,0
+653,davies,United States of America,Jimmy Davies,1,0
+654,faulkner,United States of America,Walt Faulkner,1,0
+655,niday,United States of America,Cal Niday,1,0
+656,cross,United States of America,Art Cross,1,0
+657,vukovich,United States of America,Bill Vukovich,1,0
+658,mcgrath,United States of America,Jack McGrath,1,0
+659,hoyt,United States of America,Jerry Hoyt,1,0
+660,claes,Belgium,Johnny Claes,1,0
+661,peter_walker,United Kingdom,Peter Walker,1,0
+662,sparken,France,Mike Sparken,1,0
+663,wharton,United Kingdom,Ken Wharton,1,0
+664,mcalpine,United Kingdom,Kenneth McAlpine,1,0
+665,marr,United Kingdom,Leslie Marr,1,0
+666,rolt,United Kingdom,Tony Rolt,1,0
+667,fitch,United States of America,John Fitch,1,0
+668,lucas,France,Jean Lucas,1,0
+669,bira,Thailand,Prince Bira,1,0
+670,marimon,Argentina,Onofre Marimón,1,0
+671,loyer,France,Roger Loyer,1,0
+672,daponte,Argentina,Jorge Daponte,1,0
+673,nazaruk,United States of America,Mike Nazaruk,1,0
+674,crockett,United States of America,Larry Crockett,1,0
+675,ayulo,United States of America,Manny Ayulo,1,0
+676,armi,United States of America,Frank Armi,1,0
+677,webb,United States of America,Travis Webb,1,0
+678,duncan,United States of America,Len Duncan,1,0
+679,mccoy,United States of America,Ernie McCoy,1,0
+680,swaters,United States of America,Jacques Swaters,1,0
+681,georges_berger,Belgium,Georges Berger,1,0
+682,beauman,United Kingdom,Don Beauman,1,0
+683,thorne,United Kingdom,Leslie Thorne,1,0
+684,whitehouse,United Kingdom,Bill Whitehouse,1,0
+685,riseley_prichard,United Kingdom,John Riseley-Prichard,1,0
+686,reg_parnell,United Kingdom,Reg Parnell,1,0
+687,whitehead,United Kingdom,Peter Whitehead,1,0
+688,brandon,United Kingdom,Eric Brandon,1,0
+689,alan_brown,United Kingdom,Alan Brown,1,0
+690,nuckey,United Kingdom,Rodney Nuckey,1,0
+691,lang,Germany,Hermann Lang,1,0
+692,helfrich,Germany,Theo Helfrich,1,0
+693,wacker,United States of America,Fred Wacker,1,0
+694,riu,Italy,Giovanni de Riu,1,0
+695,galvez,Argentina,Oscar Gálvez,1,0
+696,john_barber,United Kingdom,John Barber,1,0
+697,bonetto,Italy,Felice Bonetto,1,0
+698,cruz,Argentina,Adolfo Cruz,1,0
+699,nalon,United States of America,Duke Nalon,1,0
+700,scarborough,United States of America,Carl Scarborough,1,0
+701,holland,United States of America,Bill Holland,1,0
+702,bob_scott,United States of America,Bob Scott,1,0
+703,legat,Belgium,Arthur Legat,1,0
+704,cabantous,France,Yves Cabantous,1,0
+705,crook,United Kingdom,Tony Crook,1,0
+706,jimmy_stewart,United Kingdom,Jimmy Stewart,1,0
+707,ian_stewart,United Kingdom,Ian Stewart,1,0
+708,duncan_hamilton,United Kingdom,Duncan Hamilton,1,0
+709,klodwig,Germany,Ernst Klodwig,1,0
+710,krause,Germany,Rudolf Krause,1,0
+711,karch,Germany,Oswald Karch,1,0
+712,heeks,Germany,Willi Heeks,1,0
+713,fitzau,Germany,Theo Fitzau,1,0
+714,adolff,Germany,Kurt Adolff,1,0
+715,bechem,Germany,Günther Bechem,1,0
+716,bauer,Germany,Erwin Bauer,1,0
+717,hans_stuck,Germany,Hans von Stuck,1,0
+718,loof,Germany,Ernst Loof,1,0
+719,scherrer,Switzerland,Albert Scherrer,1,0
+720,terra,Switzerland,Max de Terra,1,0
+721,hirt,Switzerland,Peter Hirt,1,0
+722,carini,Italy,Piero Carini,1,0
+723,fischer,Switzerland,Rudi Fischer,1,0
+724,ulmen,Germany,Toni Ulmen,1,0
+725,abecassis,United Kingdom,George Abecassis,1,0
+726,george_connor,United States of America,George Connor,1,0
+727,rigsby,United States of America,Jim Rigsby,1,0
+728,james,United States of America,Joe James,1,0
+729,schindler,United States of America,Bill Schindler,1,0
+730,fonder,United States of America,George Fonder,1,0
+731,banks,United States of America,Henry Banks,1,0
+732,mcdowell,United States of America,Johnny McDowell,1,0
+733,miller,United States of America,Chet Miller,1,0
+734,ball,United States of America,Bobby Ball,1,0
+735,tornaco,Belgium,Charles de Tornaco,1,0
+736,laurent,Belgium,Roger Laurent,1,0
+737,obrien,United States of America,Robert O'Brien,1,0
+738,gaze,Australia,Tony Gaze,1,0
+739,charrington,United Kingdom,Robin Montgomerie-Charrington,1,0
+740,comotti,Italy,Franco Comotti,1,0
+741,etancelin,France,Philippe Étancelin,1,0
+742,poore,United Kingdom,Dennis Poore,1,0
+743,thompson,United Kingdom,Eric Thompson,1,0
+744,downing,United Kingdom,Ken Downing,1,0
+745,graham_whitehead,United Kingdom,Graham Whitehead,1,0
+746,bianco,Brazil,Gino Bianco,1,0
+747,murray,United Kingdom,David Murray,1,0
+748,cantoni,Uruguay,Eitel Cantoni,1,0
+749,aston,United Kingdom,Bill Aston,1,0
+750,brudes,Germany,Adolf Brudes,1,0
+751,riess,Germany,Fritz Riess,1,0
+752,niedermayr,Germany,Helmut Niedermayr,1,0
+753,klenk,Germany,Hans Klenk,1,0
+754,balsa,France,Marcel Balsa,1,0
+755,schoeller,Switzerland,Rudolf Schoeller,1,0
+756,pietsch,Germany,Paul Pietsch,1,0
+757,peters,Germany,Josef Peters,1,0
+758,lof,Netherlands,Dries van der Lof,1,0
+759,flinterman,Netherlands,Jan Flinterman,1,0
+760,dusio,Italy,Piero Dusio,1,0
+761,crespo,Argentina,Alberto Crespo,1,0
+762,rol,Italy,Franco Rol,1,0
+763,sanesi,Italy,Consalvo Sanesi,1,0
+764,guy_mairesse,France,Guy Mairesse,1,0
+765,louveau,France,Henri Louveau,1,0
+766,wallard,United States of America,Lee Wallard,1,0
+767,forberg,United States of America,Carl Forberg,1,0
+768,rose,United States of America,Mauri Rose,1,0
+769,mackey,United States of America,Bill Mackey,1,0
+770,green,United States of America,Cecil Green,1,0
+771,walt_brown,United States of America,Walt Brown,1,0
+772,hellings,United States of America,Mack Hellings,1,0
+773,levegh,France,Pierre Levegh,1,0
+774,chaboud,France,Eugène Chaboud,1,0
+775,gordini,France,Aldo Gordini,1,0
+776,kelly,Ireland,Joe Kelly,1,0
+777,parker,United Kingdom,Philip Fotheringham-Parker,1,0
+778,shawe_taylor,United Kingdom,Brian Shawe Taylor,1,0
+779,john_james,United Kingdom,John James,1,0
+780,branca,Switzerland,Toni Branca,1,0
+781,richardson,United Kingdom,Ken Richardson,1,0
+782,jover,Spain,Juan Jover,1,0
+783,grignard,France,Georges Grignard,1,0
+784,hampshire,United Kingdom,David Hampshire,1,0
+785,crossley,United Kingdom,Geoff Crossley,1,0
+786,fagioli,Italy,Luigi Fagioli,1,0
+787,harrison,United Kingdom,Cuth Harrison,1,0
+788,fry,United Kingdom,Joe Fry,1,0
+789,martin,France,Eugène Martin,1,0
+790,leslie_johnson,United Kingdom,Leslie Johnson,1,0
+791,biondetti,Italy,Clemente Biondetti,1,0
+792,pian,Argentina,Alfredo Pián,1,0
+793,sommer,France,Raymond Sommer,1,0
+794,chitwood,United States of America,Joie Chitwood,1,0
+795,fohr,United States of America,Myron Fohr,1,0
+796,ader,United States of America,Walt Ader,1,0
+797,holmes,United States of America,Jackie Holmes,1,0
+798,levrett,United States of America,Bayliss Levrett,1,0
+799,jackson,United States of America,Jimmy Jackson,1,0
+800,pagani,Italy,Nello Pagani,1,0
+801,pozzi,France,Charles Pozzi,1,0
+802,serafini,Italy,Dorino Serafini,1,0
+803,cantrell,United States of America,Bill Cantrell,1,0
+804,mantz,United States of America,Johnny Mantz,1,0
+805,kladis,United States of America,Danny Kladis,1,0
+806,oscar_gonzalez,Uruguay,Óscar González,1,0
+807,hulkenberg,Germany,Nico Hülkenberg,1,0
+808,petrov,Russia,Vitaly Petrov,1,0
+810,grassi,Brazil,Lucas di Grassi,1,0
+811,bruno_senna,Brazil,Bruno Senna,1,0
+812,chandhok,India,Karun Chandhok,1,0
+813,maldonado,Venezuela,Pastor Maldonado,1,0
+814,resta,United Kingdom,Paul di Resta,1,0
+815,perez,Mexico,Sergio Pérez,1,0
+816,ambrosio,Belgium,Jérôme d'Ambrosio,1,0
+817,ricciardo,Australia,Daniel Ricciardo,1,0
+818,vergne,France,Jean-Éric Vergne,1,0
+819,pic,France,Charles Pic,1,0
+820,chilton,United Kingdom,Max Chilton,1,0
+821,gutierrez,Mexico,Esteban Gutiérrez,1,0
+822,bottas,Finland,Valtteri Bottas,1,0
+823,garde,Netherlands,Giedo van der Garde,1,0
+824,jules_bianchi,France,Jules Bianchi,1,0
+825,kevin_magnussen,Denmark,Kevin Magnussen,1,0
+826,kvyat,Russia,Daniil Kvyat,1,0
+827,lotterer,Germany,André Lotterer,1,0
+828,ericsson,Sweden,Marcus Ericsson,1,0
+829,stevens,United Kingdom,Will Stevens,1,0
+830,max_verstappen,Netherlands,Max Verstappen,1,0
+831,nasr,Brazil,Felipe Nasr,1,0
+832,sainz,Spain,Carlos Sainz,1,0
+833,merhi,Spain,Roberto Merhi,1,0
+834,rossi,United States of America,Alexander Rossi,1,0
+835,jolyon_palmer,United Kingdom,Jolyon Palmer,1,0
+836,wehrlein,Germany,Pascal Wehrlein,1,0
+837,haryanto,Indonesia,Rio Haryanto,1,0
+838,vandoorne,Belgium,Stoffel Vandoorne,1,0
+839,ocon,France,Esteban Ocon,1,0
+840,stroll,Canada,Lance Stroll,1,0
+841,giovinazzi,Italy,Antonio Giovinazzi,1,0
+843,brendon_hartley,New Zealand,Brendon Hartley,1,0
+844,leclerc,Monaco,Charles Leclerc,1,0
+845,sirotkin,Russia,Sergey Sirotkin,1,0
+846,norris,United Kingdom,Lando Norris,1,0
+847,russell,United Kingdom,George Russell,1,0
+848,albon,Thailand,Alexander Albon,1,0
+849,latifi,Canada,Nicholas Latifi,1,0
+850,pietro_fittipaldi,Brazil,Pietro Fittipaldi,1,0
+851,aitken,United Kingdom,Jack Aitken,1,0
+852,tsunoda,Japan,Yuki Tsunoda,1,0
+853,mazepin,Russia,Nikita Mazepin,1,0
+854,mick_schumacher,Germany,Mick Schumacher,1,0

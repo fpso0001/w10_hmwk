@@ -1,0 +1,74 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "data/countries_assignment.csv"},
+    "params": [
+        {
+            "name": "cont_select",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "North America",
+                    "South America",
+                    "Europe",
+                    "Africa",
+                    "Asia",
+                    "Oceania"
+                ],
+                "labels": [
+                    "Show All",
+                    "North America",
+                    "South America",
+                    "Europe",
+                    "Africa",
+                    "Asia",
+                    "Oceania"
+                ],
+                "name": "Continent"
+            }
+        }
+    ],
+    "transform": [
+        {"filter": "cont_select == null || datum.continent == cont_select"}
+    ],
+    "encoding": {
+        "x": {"field": "country", "type": "nominal", "title": "Country"},
+        "y": {"field": "champs", "type": "quantitative", "title": "Championships"}
+    },
+    "layer": [
+        {
+            "mark": {"type": "bar", "cornerRadiusEnd": 4},
+            "encoding": {
+                "color": {"value": "goldenrod"},
+                "tooltip": [
+                    {"field": "country", "type": "nominal"},
+                    {"field": "champs", "type": "quantitative"}
+            ]
+        }},
+        {
+            "mark": {
+                "type": "text",
+                "align": "right",
+                "baseline": "middle",
+                "dx": -12,
+                "fontSize": 11.5,
+                "fontStyle": "italic"
+            },
+            "encoding": {
+                "text": {"field": "country", "type": "nominal"},
+                "color": {"value": "black"},
+                "opacity": {
+                    "condition": {
+                        "test": "datum['country'] == 'Brazil' || datum['country'] == 'Germany' || datum['country'] == 'United Kingdom'",
+                        "value": 1
+                    },
+                    "value": 0
+                }
+            }
+        }
+    ]
+}
+
+
+
+
